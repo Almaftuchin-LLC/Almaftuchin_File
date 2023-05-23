@@ -1,0 +1,40 @@
+body{background:#fff}
+a{text-decoration:none}
+#btn, #btn64{cursor:pointer;margin-top:10px;padding:10px 20px;border:none;border-radius:3px;background:#fdfdfd;color:#3cc091;float:right;text-transform:uppercase;font-size:16px;font-weight:600;text-shadow:none;}
+#btn:hover, a#download:hover,#btn64:hover,a#download64:hover{background:#3cc091;margin-top:10px;color:#fff;-webkit-transition: all 0.5s ease-out;-moz-transition: all 0.5s ease-out;  -ms-transition: all 0.5s ease-out;-o-transition: all 0.5s ease-out;transition: all 0.5s ease-out;}
+.dgzwrap{display:block;width:60%;margin: 20px auto;border-radius:4px;font-family:'Poppins';}
+.dgz-wrap1{background:#576269;color:#fff;padding:10px 20px;display:block;border-top-right-radius:3px;border-top-left-radius: 3px;margin-bottom:2px}
+.size-wrap{color:#fff;display:inline-block;font-size:1.5em;font-weight:700;line-height: 38px;text-align:left}
+.bottom-wrap{padding:10px 20px;background:#3cc091;border-bottom-right-radius:3px;border-bottom-left-radius:3px;color:#fff}
+#download, #download64{float:right}
+a#download, a#download64{padding:10px 20px;border-radius:3px;background:#fff;color:#FE634A;float:right;text-transform:uppercase;font-weight:700;text-align:center}
+.title-wrap span {
+    display: inline-block;
+    line-height: 20px;
+    margin-left: 5px;
+    float: right;
+    background: #E91E63;
+    padding: 0 5px;
+    border-radius: 3px;
+}
+.iklan-down{float:right;width:40%;padding-left:10px;margin:20px 0;text-align:right}
+.area-size{display:block}
+.area-size span{margin-right:3px}
+.iklan-ngisore, .iklan-duwure{display:block;width:100%;margin:0 auto}
+h2.entry-title{margin-top:10px}
+.post-labels, .post-timestamp{display:none}
+a.home-link{color:#555;font-size:20px;}
+a.home-link:hover{color:#222}
+@media screen and (max-width:600px){
+.dgzwrap{float:none;width:100%}
+.iklan-down{float:none;width:100%;text-align:center;padding:0}
+ }
+@media screen and (max-width:320px){
+/* CSS styles */
+.size-wrap{display:block;text-align:center}
+#btn, a#download, #btn64, a#download64{width:100%;margin-bottom:10px}
+.title-wrap span{float:none;width:100%;text-align:center}
+.area-size{text-align:center}
+}
+.fontsmall{font-size:10px}
+a{color:white;text-decoration:underline}
