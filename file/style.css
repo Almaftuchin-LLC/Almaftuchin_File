@@ -9,6 +9,7 @@ a{text-decoration:none}
 #download, #download64{float:right}
 a#download, a#download64{padding:10px 20px;border-radius:3px;background:#fff;color:#FE634A;float:right;text-transform:uppercase;font-weight:700;text-align:center}
 .title-wrap span {
+        margin-top: 25;
     display: inline-block;
     line-height: 20px;
     margin-left: 5px;
@@ -34,6 +35,7 @@ a.home-link:hover{color:#222}
 .size-wrap{display:block;text-align:center}
 #btn, a#download, #btn64, a#download64{width:100%;margin-bottom:10px}
 .title-wrap span{float:none;width:100%;text-align:center}
+span.fontsmall {margin-top: 0px;}
 .area-size{text-align:center}
 }
 .fontsmall{font-size:10px}
