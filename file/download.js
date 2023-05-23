@@ -26,7 +26,7 @@ function generate64() {
     var linkDL = document.getElementById("download64"),
         btn = document.getElementById("btn64"),
         direklink = document.getElementById("download64").href,
-        waktu = 100;
+        waktu = 10;
     var teks_waktu = document.createElement("span");
     linkDL.parentNode.replaceChild(teks_waktu, linkDL);
     var id;
