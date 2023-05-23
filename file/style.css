@@ -35,7 +35,7 @@ a.home-link:hover{color:#222}
 .size-wrap{display:block;text-align:center}
 #btn, a#download, #btn64, a#download64{width:100%;margin-bottom:10px}
 .title-wrap span{float:none;width:100%;text-align:center}
-span.fontsmall {margin-top: 0px !important;}
+.fontsmall {margin-top: 0px !important;}
 .area-size{text-align:center}
 }
 .fontsmall{font-size:10px}
